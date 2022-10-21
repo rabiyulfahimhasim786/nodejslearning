@@ -1,5 +1,7 @@
 # nodejslearning
-*references* - https://raddy.dev/blog/nodejs-setup-with-html-css-js-ejs/
+#*references* - https://raddy.dev/blog/nodejs-setup-with-html-css-js-ejs/
+#youtube references - https://www.youtube.com/watch?v=A01KtJTv1oc
+#https://www.youtube.com/watch?v=pKd0Rpw7O48
 
 <h2>Create a project folder</h2>
 
