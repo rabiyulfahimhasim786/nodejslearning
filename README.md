@@ -1,5 +1,6 @@
 # nodejslearning
-nodejslearning
+*references* - https://raddy.dev/blog/nodejs-setup-with-html-css-js-ejs/
+
 <h2>Create a project folder</h2>
 
 
