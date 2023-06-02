@@ -6,6 +6,8 @@
 
 #https://www.youtube.com/watch?v=pKd0Rpw7O48
 
+**Mysql Installation references** - [Mysql](https://www.geeksforgeeks.org/how-to-install-sql-workbench-for-mysql-on-windows/)
+
 <h2>Create a project folder</h2>
 
 
