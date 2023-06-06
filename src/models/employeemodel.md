@@ -14,6 +14,8 @@ This code snippet demonstrates the implementation of a model called "Employee" u
 
 7. The `update` function updates an existing employee in the database. It takes three parameters: `id` (the ID of the employee to be updated), `employee` (the updated employee object), and `result` (a callback function to handle the result of the database operation). It executes an SQL UPDATE statement with the provided data. If the update is successful, it returns the result of the update operation; otherwise, it returns an error.
 
-8. Finally, the `module.exports` statement exports the `Employee` object so that it can be imported and used in other files.
+8.In summary, this code provides a concise implementation of the delete method in the Employee model. It deletes an employee from the database table based on the provided id using a single database query. The result of the query, whether successful or containing an error, is passed to the result callback function for further handling.
+
+9. Finally, the `module.exports` statement exports the `Employee` object so that it can be imported and used in other files.
 
 In summary, this code provides a basic implementation of an Employee model with CRUD (Create, Read, Update, Delete) operations using Express.js and Node.js, along with a MySQL database connection.
